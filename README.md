@@ -27,4 +27,4 @@ This is a Spring Boot application designed to manage cricket staff members. It p
 ### Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/<username>/Cricket-Staff-Management-System.git
+git clone https://github.com/omkadganchi/Cricket-Staff-Management-System.git
